@@ -74,7 +74,7 @@ stackoverflow: "Seun AJAO"
 #  mastodon: instance.url/@username
 #  bluesky: yourname
   ORCID: 0000-0002-6606-6569
-#  google-scholar: https://scholar.google.com/citations?user=XAzESeUAAAAJ&hl=en
+  google-scholar: https://scholar.google.com/citations?user=XAzESeUAAAAJ&hl=en
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
