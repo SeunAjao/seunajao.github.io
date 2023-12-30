@@ -1,0 +1,25 @@
+# Site settings
+title: [Seun Ajao]
+description: [AI | LLM | Machine Learning]
+baseurl: "" 
+url: "https://yourusername.github.io"
+
+# Theme settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Author settings
+author:
+  name: [Seun Ajao]
+  email: [seunclick01@gmail.com]
+
+# Build settings  
+markdown: kramdown
+paginate: 5 
+paginate_path: /page:num
+
+# Exclude certain files/folders
+exclude:
+  - Gemfile
+  - Gemfile.lock
