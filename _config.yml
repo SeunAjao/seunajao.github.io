@@ -51,18 +51,20 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
+  google-scholar: https://scholar.google.com/citations?user=XAzESeUAAAAJ&hl=en
+  linkedin: seunajao
+  github: SeunAjao
+  ORCID: 0000-0002-6606-6569
+  stackoverflow: "7506213/seun-ajao"
   email: "seunclick01@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #  facebook: deanattali
-  github: SeunAjao
   #  twitter: daattali
   #  patreon: DeanAttali
   #  youtube: "@daattali"
   #  medium: yourname
   #  reddit: yourname
-  linkedin: seunajao
   #  xing: yourname
-  stackoverflow: "7506213/seun-ajao"
   #  snapchat: deanat78
   #  instagram: deanat78
   #  spotify: yourname
@@ -74,8 +76,6 @@ social-network-links:
   #  calendly: yourname
   #  mastodon: instance.url/@username
   #  bluesky: yourname
-  ORCID: 0000-0002-6606-6569
-  google-scholar: https://scholar.google.com/citations?user=XAzESeUAAAAJ&hl=en
   #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
   #  kaggle: yourname
   #  hackerrank: yourname
